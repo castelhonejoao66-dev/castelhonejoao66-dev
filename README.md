@@ -4,7 +4,7 @@
 
 - Cursando desenvolvimento de sistemas
 - 3 ano do ensino médio
-- Objeto: Desenvolvedor de jogos
+- Objetivo: Desenvolvedor de jogos
 
 # Linguagens que utilizo
 
