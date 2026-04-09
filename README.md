@@ -1,4 +1,21 @@
-## Hi there 👋
+## Me chamo João, tenho 18 anos.
+
+## Sobre Mim
+
+- Cursando desenvolvimento de sistemas
+- 3 ano do ensino médio
+- Objeto: Desenvolvedor de jogos
+
+# Linguagens que utilizo
+
+- Python
+- HTML
+- CSS
+
+# Linguagens que quero aprender
+
+- JavaScript
+
 
 <!--
 **castelhonejoao66-dev/castelhonejoao66-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
